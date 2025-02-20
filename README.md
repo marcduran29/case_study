@@ -19,7 +19,7 @@ Este proyecto es una **aplicación web** construida con **Laravel**, **Vue 3**, 
 
 ### 1️⃣ Clonar el repositorio
 
-git clone https://github.com/tuusuario/case_study.git
+git clone https://github.com/marcduran29/case_study.git
 cd case_study
 
 **Construir y levantar los contenedores con Docker**
